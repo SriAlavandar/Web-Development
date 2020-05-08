@@ -1,3 +1,3 @@
 # Web-Development
 
-Assignment-2 solutoins (Coursera)
+Assignment-2 solutions (Coursera)
